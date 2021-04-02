@@ -1,0 +1,1 @@
+./java --module-path E:\Programming\Tools\JavaLib\javafx-sdk-11.0.2\lib --add-modules javafx.controls,javafx.fxml,javafx.graphics -jar E:\Programming\Projects\Basher\out\artifacts\Basher_jar\Basher.jar
